@@ -1,4 +1,4 @@
-#TMC2130 connection board for SPI mode on RAMPS 1.4
+# TMC2130 connection board for SPI mode on RAMPS 1.4
 
 This is my simple board to connect TMC2130 drivers to RAMPS 1.4 using 10p flat cable to enable the SPI mode. Board has 10p IDC female connector and the flat cable is split on the RAMPS end to 10p and 8p IDC female connectors which I have connected to RAMPS AUX-2 and AUX-3 (SPI) connectors. Drivers have 4pin Dupont connectors with wires directly soldered to the driver boards.
 
